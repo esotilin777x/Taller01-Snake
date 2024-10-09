@@ -1,3 +1,4 @@
 # Taller01-Snake
 integrante 1 
-![error github integrante 1](https://github.com/user-attachments/assets/5eef9b76-b7b5-47ce-b305-d5c0c8fd47e0)
+![Conflicto Integrante 1 ](https://github.com/user-attachments/assets/b1db754b-acc4-4455-80c5-3e78a5154f26)
+
